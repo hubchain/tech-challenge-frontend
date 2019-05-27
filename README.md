@@ -23,6 +23,7 @@ The web app must consist of a login page, a page where the user can register/wat
 
 
 ## Nice to have
+- Deployed code (use Github Pages or any cloud service you desire)
 - Static typed javascript
 - Linted code
 - Custom design like the logo and banners, do not forget to send us the original file (psd, ai, etc)
