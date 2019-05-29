@@ -15,7 +15,7 @@ The web app must consist of a login page, a page where the user can register/wat
 - Readme explaining how to run the project
 - You can start it from scratch or use a bootstrap project
 - It must be a Single Page Application
-- It must be implemented with AngularJS
+- It must be implemented with AngularJS (1.x)
 - Include tests (at least unit tests)
 - It should be responsive
 - Modularize whenever possible, avoid monster components
