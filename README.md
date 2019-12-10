@@ -2,7 +2,7 @@
 
 Hey Front-End developer. Welcome.
 
-To protect the world from vilains are hero's mission! Your mission, should you choose to accept it, is to carve out up to 16 hours and create a single page application (SPA) to build up the best team using [Disney Marvel's Amazing API](https://developer.marvel.com/). Your application should show a random vilain to be defeated and then allow a registered user to create an awesome 3-to-7 hero team.
+To protect the world from villains are hero's mission! Your mission, should you choose to accept it, is to carve out up to 16 hours and create a single page application (SPA) to build up the best team using [Disney Marvel's Amazing API](https://developer.marvel.com/). Your application should show a random villain to be defeated and then allow a registered user to create an awesome 3-to-7 hero team.
 
 > **Hey this is important!**
 > We hope you can spend about 8 hours on this project. If you can finish faster -- great! If not, limit yourself and don't spend much longer than 16 hours MAX.
