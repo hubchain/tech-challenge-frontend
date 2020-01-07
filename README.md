@@ -9,7 +9,7 @@ To protect the world from villains are hero's mission! Your mission, should you 
 
 To create the application you can use any of these technologies:
 
-- AngularJS
+- AngularJS (preferable...)
 - ReactJS
 - VueJS
 
